@@ -1,0 +1,41 @@
+kaki
+
+
+// {
+//   "name": "tutorial",
+//   "version": "1.0.0",
+//   "description": "",
+//   "main": "alternative_flavor.js",
+//   "dependencies": {
+//     "lodash": "^4.17.21"
+//   },
+//   "devDependencies": {},
+//   "scripts": {
+//     "test": "echo \"Error: no test specified\" && exit 1"
+//   },
+//   "keywords": [],
+//   "author": "",
+//   "license": "ISC"
+// }
+
+
+
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative_flavor.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+dependencies
+
+npm
